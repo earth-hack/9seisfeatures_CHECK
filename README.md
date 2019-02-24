@@ -10,7 +10,7 @@ For this challenge, we are focusing in predicting fault interpretation in a 3D s
 interpreting the whole volumne of seismic data would be very time consuming and we need a bigger processing machine to work on it. 
 
 After selecting the sublines from the whole volume,convert the subline data into ASCII format to be consumed into computer for machine learning work.
-With the ASCII format file, we can convert the ASCII input into array for modelling. The modelling we used is Convolutional Neural Network. 
+With the ASCII format file, we can convert the ASCII input into array for modelling. The array input consist of data with faults and without faults. The modelling we used is Convolutional Neural Network. 
 
 ## Members
 1) Shivaji 
